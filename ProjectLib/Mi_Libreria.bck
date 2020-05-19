@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC2530
+D Zigbee module
+$ENDCMP
+#
+$CMP NT3H1101
+D NTAG I2C - Energy harvesting NFC
+K NFC
+$ENDCMP
+#
+$CMP TTP223E-BA6
+D 1 key Touch Pad Detector IC
+F https://datasheet.lcsc.com/szlcsc/Tontek-Design-Tech-TTP223E-BA6_C129457.pdf
+$ENDCMP
+#
+$CMP Tenstar_PS_3V3
+D Power Supply AC - 3.3V
+$ENDCMP
+#
+#End Doc Library
